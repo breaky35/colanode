@@ -1,3 +1,4 @@
+import { stripeRoutes } from "./stripe";
 import fastifyWebsocket from '@fastify/websocket';
 import { fastify } from 'fastify';
 import {
